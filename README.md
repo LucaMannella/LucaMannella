@@ -17,8 +17,9 @@
 ![Repos Badge](https://badges.pufler.dev/repos/Sarcares/?color=white)
 ![Commits Badge](https://badges.pufler.dev/commits/yearly/Sarcares/?color=white)
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sarcares&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Sarcares&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Sarcares&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Sarcares&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
+
 - [Some Advance Stats about my GitHub Profile](https://gitstats.me/Sarcares)
 - [My 2021 GitHub Skyline](https://skyline.github.com/Sarcares/2021)
 
