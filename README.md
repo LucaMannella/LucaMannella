@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently a II year Ph.D. student of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). In particular, I am a member of the [e-Lite research group](https://elite.polito.it/).
 - 🔍 You can find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=ecwAbEYAAAAJ).
-- 🤔 My works are mainly related to IoT Security, specifically in this period I am working on security of Smart Homes and Arduino's projects. I am currently investigating the security during the development of [Home Assistant](https://home-assistant.io) additional components (like integration or add-ons)
-- :teacher: During last semester, I was (one of) the teaching assistant(s) of the courses  [Web Application I](https://elite.polito.it/teaching/current-courses/521-wa1) and [Applicazioni Web I](https://elite.polito.it/teaching/current-courses/532-01udfov-aw1) at Politecnico di Torino.
+- 🤔 My works are mainly related to IoT Security, specifically in this period I am working on security of Cloud-IoT solutions with a focus on Smart Homes and Arduino's projects. I am currently investigating the security during the development of [Home Assistant](https://home-assistant.io) additional components (like integration or add-ons)
+- :teacher: In 2021, I was (one of) the teaching assistant(s) of the courses [Web Application I](https://elite.polito.it/teaching/current-courses/521-wa1) and [Applicazioni Web I](https://elite.polito.it/teaching/current-courses/532-01udfov-aw1) at Politecnico di Torino. This year I am involved only in Web Application I.
 
 ### 📊 GitHub Statistics
 
