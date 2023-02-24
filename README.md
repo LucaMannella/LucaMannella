@@ -6,12 +6,12 @@
 
 ## Welcome to my GitHub profile!
 
-- 🔭 I’m a III year Ph.D. student of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). In particular, I am a member of the [e-Lite research group](https://elite.polito.it/).
+- 🔭 I’m a III year Ph.D. student of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). In particular, I am a member of the [e-Lite research group](https://elite.polito.it/). Our open-source projects will be soon available on [GitHub](https://github.com/elite-polito).
 - 🔍 You can find my publications on [Research Gate](https://www.researchgate.net/profile/Luca-Mannella) or [Google Scholar](https://scholar.google.com/citations?user=ecwAbEYAAAAJ).
 - 🤔 The main theme of my PhD is "Supporting developers in the Cybersecurity of IoT Systems". Hence, my works are mainly related to IoT Security. Currently, I am mainly working on smart homes security.
   - Recently, I proposed a threat model for extensible smart home gateways. I am continuing to study which kind of issues could be faced by plug-in developers on different smart home platforms. 
   - Moreover, I am investigating the Manufacturer Usage Description (MUD) standard and how it could be used to improve smart homes' security.
-- :teacher: From 2021, I was (one of) the teaching assistant(s) of Web Application I at Politecnico di Torino — a course focused on the front-end of web application (using React framework). This year I am involved only in one of the two english courses. Here you can find the [course's website](https://elite.polito.it/teaching/current-courses/556-01txyov-wa1).
+- :teacher: From 2021, I am (one of) the teaching assistant(s) of Web Application I at Politecnico di Torino — a course focused on the front-end of web application (using React framework). This year I am involved only in one of the two english courses. Here you can find the [course's website](http://bit.ly/polito-wa1-iz).
 
 ### 📫 How to reach me
 
@@ -33,4 +33,4 @@ If you are interested in my activities and you want to collaborate with me or pr
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Sarcares&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
 
 - [Some Advance Stats about my GitHub Profile](https://gitstats.me/Sarcares)
-- [My 2021 GitHub Skyline](https://skyline.github.com/Sarcares/2021)
+- [My 2022 GitHub Skyline](https://skyline.github.com/Sarcares/2022)
