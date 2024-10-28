@@ -1,4 +1,4 @@
-# Luca Mannella, Ph.D. Candidate
+# Luca Mannella, Ph.D.
 
 <!-- ![ReadMe Last Update Badge](https://badges.pufler.dev/updated/LucaMannella/LucaMannella) -->
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/LucaMannella/LucaMannella/?color=white) -->
@@ -6,17 +6,17 @@
 
 ## 👋 Welcome to my GitHub profile!
 
-- 🔭 I’m a Ph.D. candidate of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). In particular, I am a member of the [e-Lite research group](https://elite.polito.it/) and of the [SMILIES research group](https://www.smilies.polito.it/).
+- 🔭 I’m a Post Doc Researcher member of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). In particular, I am working with the [e-Lite research group](https://elite.polito.it/) and the [SMILIES research group](https://www.smilies.polito.it/).
 - 🔍 You can find my publications on [Research Gate](https://www.researchgate.net/profile/Luca-Mannella) or [Google Scholar](https://scholar.google.com/citations?user=ecwAbEYAAAAJ).
 
 ## 🔍 Research Activities
 
-- 🎓 The main theme of my Ph.D. is "Supporting developers in the Cybersecurity of IoT Systems". Hence, my work is mainly related to IoT security. Specifically, I mainly worked on smart home security and smart home gateways.
+- 🎓 The main theme of my Ph.D., obtained in October 2024, was "Supporting developers in the Cybersecurity of IoT Systems". Hence, my work is mainly related to IoT security. Specifically, I mainly worked on smart home security and smart home gateways.
   - Recently, I proposed a [threat model for extensible smart home gateways](https://ieeexplore.ieee.org/document/9854235). I am continuing to study which kinds of issues could be faced by plug-in developers on different smart home platforms. 
   - Moreover, I am investigating the Manufacturer Usage Description (MUD) standard and how it could be used to improve the security of smart homes. One of my recent works is based on [using it on smart home gateways](https://ieeexplore.ieee.org/document/10193747).
 - 🏎️ As a research assistant, I am working mainly on automotive security.
   - I am involved in the [COLTRANE-V research project](https://www.polito.it/en/research/scenario/research-database?progetto=1308/2023).
-  - I am working ont the creation of a framework for Social Media Intelligence (SOCMINT) in automotive security, also called [SOCMATI: Social Media Automotive Threat Intelligence](https://ieeexplore.ieee.org/document/10616053).
+  - I am working on the creation of a framework for Social Media Intelligence (SOCMINT) in automotive security, also called [SOCMATI: Social Media Automotive Threat Intelligence](https://ieeexplore.ieee.org/document/10616053).
 
 ## 👨‍🎓 Teaching Activities
 
