@@ -11,7 +11,7 @@
 
 ## 🔍 Research Activities
 
-- 🎓 The main theme of my Ph.D., obtained in October 2024, was "Supporting developers in the Cybersecurity of IoT Systems". Hence, my work is mainly related to IoT security. Specifically, I mainly worked on smart home security and smart home gateways.
+- 🎓 The main theme of my Ph.D., obtained in October 2024, was "Supporting developers in the Cybersecurity of IoT Systems". Hence, my work is mainly related to IoT security. Specifically, I mainly worked on smart home security and smart home gateways. Those activities were summarized in my Ph.D. thesis titled: "[Securing IoT Gateways in Smart Home Environments](https://iris.polito.it/handle/11583/2993903)".
   - Recently, I proposed a [threat model for extensible smart home gateways](https://ieeexplore.ieee.org/document/9854235). I am continuing to study which kinds of issues could be faced by plug-in developers on different smart home platforms. 
   - Moreover, I am investigating the Manufacturer Usage Description (MUD) standard and how it could be used to improve the security of smart homes. One of my recent works is based on [using it on smart home gateways](https://ieeexplore.ieee.org/document/10193747).
 - 🏎️ As a research assistant, I am working mainly on automotive security.
