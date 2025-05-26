@@ -22,7 +22,7 @@
 
 Since 2021, I have taught at Politecnico di Torino.
 -  From March 2021 to September 2024, I was one of the teaching assistants of Web Application I (M.Sc. course for Computer Engineers), a course focused on the front end of web applications (using the React framework). All the material related to the course is available on [GitHub](https://github.com/polito-webapp1).
--  From September 2024, I was one of the teachers of [Algorithms and Programming](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=05OGDLP&p_a_acc=2025) (B.Sc. course for Electronic And Communications Engineers), a course designed to deepens the students' knowledge in advanced programming, guiding them to more design-oriented skills.
+-  From September 2024, I was one of the teachers of [Algorithms and Programming](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=05OGDLP&p_a_acc=2025) (B.Sc. course for Electronic And Communications Engineers), a course designed to deepen the students' knowledge in advanced programming, guiding them to more design-oriented skills.
 
 ## 📫 How to reach me
 
@@ -41,8 +41,8 @@ If you want more information, propose a collaboration, or provide feedback, feel
 <!-- ![Repos Badge](https://badges.pufler.dev/repos/LucaMannella/?color=white) -->
 <!-- ![Commits Badge](https://badges.pufler.dev/commits/yearly/LucaMannella/?color=white) -->
 
-<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=LucaMannella&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
-<img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=LucaMannella&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaMannella&show_icons=true&locale=en" alt="LucaMannella"/>
+**Note**: "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. All the statistics are automatically computed.
 
-**Note**: "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=LucaMannella&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img align="left" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=LucaMannella&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaMannella&show_icons=true&locale=en" alt="LucaMannella"/>
