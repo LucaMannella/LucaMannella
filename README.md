@@ -41,12 +41,8 @@ If you want more information, propose a collaboration, or provide feedback, feel
 <!-- ![Repos Badge](https://badges.pufler.dev/repos/LucaMannella/?color=white) -->
 <!-- ![Commits Badge](https://badges.pufler.dev/commits/yearly/LucaMannella/?color=white) -->
 
-<span>
-  <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=LucaMannella&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaMannella&show_icons=true&locale=en" alt="LucaMannella"/>
-</span>
-<span>
-  <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=LucaMannella&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
-</span>
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=LucaMannella&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=LucaMannella&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaMannella&show_icons=true&locale=en" alt="LucaMannella"/>
 
 **Note**: "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
